@@ -6,7 +6,8 @@ The repository consists of two hardware evaluation tools: 1) Non-ideality Comput
 ## Package Installation
 ```shell
 pip install attrs==19.3.0 beautifulsoup4==4.9.1 bottleneck brotlipy==0.7.0  certifi==2020.12.5 cffi chardet==3.0.4 cryptography==2.9.2 cycler==0.10.0 cymem cython dataclasses==0.6 eagerpy==0.29.0 einops==0.6.0 fastai==1.0.61 fastprogress==0.2.2 fonttools==4.29.1 foolbox==3.2.1 future==0.18.3 gitdb==4.0.5 gitpython==3.1.12 glib icu idna==2.10 importlib-metadata==1.7.0 intel-openmp joblib==1.1.0 jsonschema==3.2.0 kiwisolver==1.2.0 libtiff matplotlib==3.5.1 mkl mkl-service mkl_fft mkl_random murmurhash==1.0.2 ninja numexpr numpy nvidia-ml-py3==7.352.0 olefile==0.46 packaging==20.4 pandas pillow pip==20.1.1 plac==0.9.6 preshed protobuf pycparser==2.20 pyopenssl==19.1.0 pyparsing==2.4.7 pyrsistent==0.16.0 pysocks==1.7.1 python-dateutil>=2.8.2 torch 
-
+```
+```shell
 pip install pytz==2020.1 pyyaml readline requests==2.24.0 scipy setuptools==47.3.1 sip six smmap==3.0.5 soupsieve==2.0.1 spikingjelly==0.0.0.0.12 srsly tensorboardx==2.1 threadpoolctl==3.1.0 tk torchattacks==3.0.0 torchvision tornado==6.0.4 tqdm==4.47.0 typing-extensions urllib3==1.25.9 wasabi==0.2.2 wheel==0.34.2 zipp==3.1.0 zstd==1.4.4
 ```
 
