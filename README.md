@@ -6,6 +6,7 @@ The repository consists of two hardware evaluation tools: 1) Non-ideality Comput
 ## Package Installation
 ```shell
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+pip install -U pip setuptools
 ```
 complementary:
 ```shell
